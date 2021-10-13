@@ -1,2 +1,2 @@
 # Arduino Projects
-A list of several Arduino Projects I have implemented
+A list of Arduino Projects I have implemented
