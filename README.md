@@ -7,7 +7,7 @@ This repository contains some of the projects I have implemented on Arduino boar
 <p alling = "center">
     <img src = "img/arduino.png" width = "100%">
 </p>
----
+
 
 ## Author
 
