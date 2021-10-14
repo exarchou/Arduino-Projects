@@ -1,6 +1,6 @@
 # Arduino DC remote control
 
-In this project I develop a project that allow Remote Control of the speed and direction of a DC Motor. I use an Arduino Nano, and components from the Elegoo Kit.
+In this project I developed a system that allows Remote Control of the speed and direction of a DC Motor. I used an Arduino Nano, and components from the Elegoo Kit.
 
 
 
